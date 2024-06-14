@@ -1,0 +1,4 @@
+config.py
+
+# Ignore directories
+open_source_llms/

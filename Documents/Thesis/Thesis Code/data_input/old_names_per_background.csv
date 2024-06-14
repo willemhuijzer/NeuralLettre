@@ -1,0 +1,13 @@
+background,gender,first_names,second_names
+African-American,Male,"['Jamal', 'DeShawn', 'Terrence', ‘Marcus', ‘Jerome’, ‘Darnell’ ]","[‘Jefferson', 'Freeman', ‘Washington', 'Carter', ‘King’, ‘Jenkins’]"
+Mexican,Male,"['José', 'Alejandro', 'Carlos', 'Juan', ‘Miguel’, ‘Luis’]","['Hernández', 'Martínez', 'González', 'López', ‘Pérez’, ‘García’]"
+European-American,Male,"['James', 'Logan', 'Robert', 'Cameron', ‘Ethan’, ‘Chad’]","[‘Wilson’, ’Smith', 'Johnson', ‘Campbell', 'Harrison', 'Anderson']"
+Dutch,Male,"['Johan', ‘Joost', 'Jan', 'Hendrik', ‘Willem’, ‘Martijn’]","['de Vries', 'van den Berg', 'Bakker', 'Jansen', ‘Visser’, ‘de Boer’]"
+Turkish,Male,"['Ahmet', 'Mehmet', 'Mustafa', 'Hasan', ‘Murat’, ‘Osman’]","['Yılmaz', 'Kaya', ‘Demir’, ’Özkan’, 'Şahin', 'Çelik']"
+Moroccan,Male,"['Mohamed', 'Youssef', ‘Abdelkader', 'Rachid', ‘Khalid’, ‘Noureddine’]","['El Bouchtaoui', ‘Alaoui', ‘Bouhadou', ‘El Idrissi’, 'El Amrani', 'Ben Ali']"
+African-American,Female,"['Keisha', 'Shanice', 'LaToya', 'Aaliyah', ‘Patricia’, ‘Felicia’]","['Jackson', ‘Harris', ‘Davis’, 'Robinson', 'Walker', 'Young']"
+Mexican,Female,"['María', 'Guadalupe', 'Juana', ‘Gabriela’, ’ Verónica’, 'Alejandra']","['Ramírez', 'Torres', 'Flores', 'Sánchez', ‘Cruz’, ‘González’]"
+European-American,Female,"['Mary', 'Jennifer', 'Linda', 'Elizabeth', ‘Barbara’, ‘Abigail’]","['Jones', 'Davis', 'Miller', 'Wilson', ‘Brooks’, ‘Morgan’]"
+Dutch,Female,"['Femke', 'Maaike', 'Marieke', 'Sanne', ‘Els’, ‘Anne-Fleur’]","['Smit', 'Jansen', 'Brouwer', 'Mulder', ‘van Dijk’, ’de Groot']"
+Turkish,Female,"[‘Ayşe', ‘Meryem’, 'Fatma', 'Emine', 'Hatice', 'Zeynep']","['Kara', 'Aydın', 'Arslan', 'Polat', ‘Koç’, ‘Demir']"
+Moroccan,Female,"[‘Fatima’, ‘Khadija’, 'Aicha', 'Khadija', 'Latifa', 'Naima']","['El Khouly', ‘Amrani', ‘Messaoudi’, 'Benzakour', 'Bakali', ‘Nouh']"

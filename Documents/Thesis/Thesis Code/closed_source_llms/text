@@ -1,0 +1,1190 @@
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00024667746, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00024667746, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.371688, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -11.976155, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -12.710532, 'token': 'As'}, {'bytes': [73], 'logprob': -12.735429, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331513, 'id': 'chatcmpl-9RSWHbaeqzf6e94nPoKENfMOG4g03', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 233, 'total_tokens': 234}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00024667746
+ 0.9997533529623831 
+
+Yes --> Logprob: -8.371688
+ 0.0002313247478163724 
+
+Based --> Logprob: -11.976155
+ 6.292481814304473e-06 
+
+As --> Logprob: -12.710532
+ 3.019159731181698e-06 
+
+I --> Logprob: -12.735429
+ 2.9449197229289797e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.003075279, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.003075279, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -5.838715, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -9.064525, 'token': 'It'}, {'bytes': [78, 111], 'logprob': -11.075133, 'token': 'No'}, {'bytes': [73], 'logprob': -11.794887, 'token': 'I'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331513, 'id': 'chatcmpl-9RSWHQiuPOEDmORlUIkVOX7lFX8P4', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 215, 'total_tokens': 216}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.003075279
+ 0.9969294448268614 
+
+YES --> Logprob: -5.838715
+ 0.0029125828911925923 
+
+It --> Logprob: -9.064525
+ 0.00011569825569271807 
+
+No --> Logprob: -11.075133
+ 1.549283343487959e-05 
+
+I --> Logprob: -11.794887
+ 7.543026982059106e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0017159933, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0017159933, 'token': 'YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -6.8917212, 'token': 'Based'}, {'bytes': [89, 101, 115], 'logprob': -7.336181, 'token': 'Yes'}, {'bytes': [73], 'logprob': -11.279086, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -11.76172, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331513, 'id': 'chatcmpl-9RSWHDEID0WJYilxYIaz5eQCtzFKY', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 206, 'total_tokens': 207}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0017159933
+ 0.9982854781747023 
+
+Based --> Logprob: -6.8917212
+ 0.0010161633146274745 
+
+Yes --> Logprob: -7.336181
+ 0.0006515339840380122 
+
+I --> Logprob: -11.279086
+ 1.2634416492837343e-05 
+
+As --> Logprob: -11.76172
+ 7.797401662171664e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.09857357, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.09857357, 'token': 'YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -3.0613155, 'token': 'Based'}, {'bytes': [78, 79], 'logprob': -3.6884995, 'token': 'NO'}, {'bytes': [65, 115], 'logprob': -4.3629913, 'token': 'As'}, {'bytes': [73], 'logprob': -5.3140316, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331514, 'id': 'chatcmpl-9RSWIAPCkIKmRzCfqcMPs8czmH3pB', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 199, 'total_tokens': 200}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.09857357
+ 0.9061290262495174 
+
+Based --> Logprob: -3.0613155
+ 0.04682605500966417 
+
+NO --> Logprob: -3.6884995
+ 0.02500950065764109 
+
+As --> Logprob: -4.3629913
+ 0.012740220771310495 
+
+I --> Logprob: -5.3140316
+ 0.0049220429545467625 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.0001245157, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.0001245157, 'token': 'NO'}, {'bytes': [77, 97, 121, 98, 101], 'logprob': -10.058072, 'token': 'Maybe'}, {'bytes': [89, 69, 83], 'logprob': -10.158587, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -11.001285, 'token': 'It'}, {'bytes': [73], 'logprob': -11.691081, 'token': 'I'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331514, 'id': 'chatcmpl-9RSWIRHQ875ZL82BW0WgWTrLJ0WlA', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 207, 'total_tokens': 208}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.0001245157
+ 0.9998754920517581 
+
+Maybe --> Logprob: -10.058072
+ 4.2838556846870025e-05 
+
+YES --> Logprob: -10.158587
+ 3.874197191562012e-05 
+
+It --> Logprob: -11.001285
+ 1.66802528879587e-05 
+
+I --> Logprob: -11.691081
+ 8.368122597467863e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00013882013, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00013882013, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.922316, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -13.451351, 'token': 'Based'}, {'bytes': [78, 79], 'logprob': -13.62018, 'token': 'NO'}, {'bytes': [32, 89, 69, 83], 'logprob': -13.9431, 'token': ' YES'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331514, 'id': 'chatcmpl-9RSWIQqSXt1etw8A94B59opMU8st1', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 237, 'total_tokens': 238}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00013882013
+ 0.9998611895050684 
+
+Yes --> Logprob: -8.922316
+ 0.00013337898108207582 
+
+Based --> Logprob: -13.451351
+ 1.439303848229581e-06 
+
+NO --> Logprob: -13.62018
+ 1.2157127836203474e-06 
+
+ YES --> Logprob: -13.9431
+ 8.802146841200883e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0064507932, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0064507932, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -5.2544785, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -6.9830875, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -9.151409, 'token': 'Based'}, {'bytes': [73, 116], 'logprob': -9.306526, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331514, 'id': 'chatcmpl-9RSWI4jsXdq5fWOGQhB5qYqb3mVr3', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 227, 'total_tokens': 228}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0064507932
+ 0.9935699684993233 
+
+NO --> Logprob: -5.2544785
+ 0.005224069934197931 
+
+Yes --> Logprob: -6.9830875
+ 0.0009274353216354376 
+
+Based --> Logprob: -9.151409
+ 0.0001060702444329639 
+
+It --> Logprob: -9.306526
+ 9.08295395339545e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0101225795, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0101225795, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -4.785357, 'token': 'NO'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -7.0717626, 'token': 'Based'}, {'bytes': [89, 101, 115], 'logprob': -8.2090225, 'token': 'Yes'}, {'bytes': [65, 115], 'logprob': -8.315819, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331515, 'id': 'chatcmpl-9RSWJeOj7lyXZetI4fQNRMdxhxN9v', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 202, 'total_tokens': 203}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0101225795
+ 0.9899284813733807 
+
+NO --> Logprob: -4.785357
+ 0.008351141858063887 
+
+Based --> Logprob: -7.0717626
+ 0.000848735808247449 
+
+Yes --> Logprob: -8.2090225
+ 0.00027218665374790965 
+
+As --> Logprob: -8.315819
+ 0.0002446164706248763 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.27108198, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.27108198, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -1.4690723, 'token': 'YES'}, {'bytes': [73], 'logprob': -6.0154037, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -6.3436985, 'token': 'It'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -7.0752068, 'token': 'Based'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331515, 'id': 'chatcmpl-9RSWJe5V85yTfG2EJPStyhqDXiAfc', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 182, 'total_tokens': 183}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.27108198
+ 0.7625539796672862 
+
+YES --> Logprob: -1.4690723
+ 0.23013888603000782 
+
+I --> Logprob: -6.0154037
+ 0.002440862789318086 
+
+It --> Logprob: -6.3436985
+ 0.0017577890170076406 
+
+Based --> Logprob: -7.0752068
+ 0.0008458176206722586 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [73], 'logprob': -0.1242445, 'token': 'I', 'top_logprobs': [{'bytes': [73], 'logprob': -0.1242445, 'token': 'I'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -2.6424634, 'token': 'Sorry'}, {'bytes': [78, 79], 'logprob': -3.7471387, 'token': 'NO'}, {'bytes': [65, 115], 'logprob': -4.1362953, 'token': 'As'}, {'bytes': [85, 110, 102, 111, 114, 116, 117, 110, 97, 116, 101, 108, 121], 'logprob': -5.756443, 'token': 'Unfortunately'}]}]}, 'message': {'content': 'I', 'role': 'assistant'}}], 'created': 1716331515, 'id': 'chatcmpl-9RSWJtZ3vboPKO87qC3aD81YsI27L', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 225, 'total_tokens': 226}}
+Top 5 Tokens and their Log Probabilities:
+I --> Logprob: -0.1242445
+ 0.8831638809138371 
+
+Sorry --> Logprob: -2.6424634
+ 0.07118569454948424 
+
+NO --> Logprob: -3.7471387
+ 0.023585133544447922 
+
+As --> Logprob: -4.1362953
+ 0.015981950296534615 
+
+Unfortunately --> Logprob: -5.756443
+ 0.003162340060380889 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -4.8113485e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -4.8113485e-05, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -10.354443, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -11.729734, 'token': 'Based'}, {'bytes': [73], 'logprob': -12.707262, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -13.521158, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331515, 'id': 'chatcmpl-9RSWJ36L4s0Qsepbw7uk3h9uo2Nox', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 154, 'total_tokens': 155}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -4.8113485e-05
+ 0.9999518876724351 
+
+Yes --> Logprob: -10.354443
+ 3.18509611183846e-05 
+
+Based --> Logprob: -11.729734
+ 8.05084099952449e-06 
+
+I --> Logprob: -12.707262
+ 3.0290485428981487e-06 
+
+As --> Logprob: -13.521158
+ 1.3422570436682812e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.000562327, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.000562327, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -7.579021, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -10.227152, 'token': 'Yes'}, {'bytes': [73, 116], 'logprob': -11.547741, 'token': 'It'}, {'bytes': [73], 'logprob': -13.150087, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331515, 'id': 'chatcmpl-9RSWJXWyINzxGbgB7jxpVzmgNATzR', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 171, 'total_tokens': 172}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.000562327
+ 0.9994378310761959 
+
+NO --> Logprob: -7.579021
+ 0.0005110613072030215 
+
+Yes --> Logprob: -10.227152
+ 3.617464857774228e-05 
+
+It --> Logprob: -11.547741
+ 9.657835530614235e-06 
+
+I --> Logprob: -13.150087
+ 1.94531430023034e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.000624157, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.000624157, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -7.7590737, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -8.710098, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -11.060545, 'token': 'As'}, {'bytes': [73], 'logprob': -12.26774, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331516, 'id': 'chatcmpl-9RSWK9sOOlKFDCJLU3Wwb9ElTKy67', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 209, 'total_tokens': 210}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.000624157
+ 0.999376037745461 
+
+Yes --> Logprob: -7.7590737
+ 0.00042685179042947714 
+
+Based --> Logprob: -8.710098
+ 0.00016491209229629796 
+
+As --> Logprob: -11.060545
+ 1.5720499447475648e-05 
+
+I --> Logprob: -12.26774
+ 4.700977933192434e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -6.420598e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -6.420598e-05, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -9.733808, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -12.6879225, 'token': 'Yes'}, {'bytes': [73], 'logprob': -14.604617, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -14.915889, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331516, 'id': 'chatcmpl-9RSWKnB3BxVQXJPmT4Msxw8pYNhqu', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 221, 'total_tokens': 222}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -6.420598e-05
+ 0.9999357960811598 
+
+NO --> Logprob: -9.733808
+ 5.92462542118897e-05 
+
+Yes --> Logprob: -12.6879225
+ 3.0881989532845775e-06 
+
+I --> Logprob: -14.604617
+ 4.54250513152947e-07 
+
+It --> Logprob: -14.915889
+ 3.327451351211517e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.009250574, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.009250574, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -4.7129555, 'token': 'NO'}, {'bytes': [77, 97, 121, 98, 101], 'logprob': -9.190647, 'token': 'Maybe'}, {'bytes': [73, 116], 'logprob': -9.987085, 'token': 'It'}, {'bytes': [89, 101, 115], 'logprob': -10.042547, 'token': 'Yes'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331516, 'id': 'chatcmpl-9RSWKhD0FQFuzy8C0fhyoYOX97mZe', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 178, 'total_tokens': 179}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.009250574
+ 0.990792080930804 
+
+NO --> Logprob: -4.7129555
+ 0.008978203251852543 
+
+Maybe --> Logprob: -9.190647
+ 0.00010198885656611109 
+
+It --> Logprob: -9.987085
+ 4.599007249926532e-05 
+
+Yes --> Logprob: -10.042547
+ 4.3508814857331585e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00017064385, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00017064385, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.893949, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -11.150571, 'token': 'Based'}, {'bytes': [78, 79], 'logprob': -11.70227, 'token': 'NO'}, {'bytes': [65, 115], 'logprob': -12.437371, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331516, 'id': 'chatcmpl-9RSWKM4KWYgN3LFpRqcgSCSQ0ilxn', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 200, 'total_tokens': 201}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00017064385
+ 0.9998293707088336 
+
+Yes --> Logprob: -8.893949
+ 0.0001372167178331177 
+
+Based --> Logprob: -11.150571
+ 1.4367081144121246e-05 
+
+NO --> Logprob: -11.70227
+ 8.275013543713076e-06 
+
+As --> Logprob: -12.437371
+ 3.96751342820837e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.21938881, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.21938881, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -1.8080462, 'token': 'NO'}, {'bytes': [73, 116], 'logprob': -4.2531567, 'token': 'It'}, {'bytes': [65, 115], 'logprob': -4.264763, 'token': 'As'}, {'bytes': [73], 'logprob': -6.3689156, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331517, 'id': 'chatcmpl-9RSWL4VKVBD3TiFnQwzIorPdM5rC8', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 175, 'total_tokens': 176}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.21938881
+ 0.8030094393488862 
+
+NO --> Logprob: -1.8080462
+ 0.16397419682000544 
+
+It --> Logprob: -4.2531567
+ 0.014219276996892986 
+
+As --> Logprob: -4.264763
+ 0.014055197820227402 
+
+I --> Logprob: -6.3689156
+ 0.0017140168980777218 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -4.763667e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -4.763667e-05, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -10.317234, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -12.180729, 'token': 'Based'}, {'bytes': [73, 116], 'logprob': -12.475807, 'token': 'It'}, {'bytes': [78, 79], 'logprob': -12.736158, 'token': 'NO'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331517, 'id': 'chatcmpl-9RSWLLOF2nlywFX3BzaV62xQkK9Bx', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 218, 'total_tokens': 219}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -4.763667e-05
+ 0.9999523644646081 
+
+Yes --> Logprob: -10.317234
+ 3.3058428549139684e-05 
+
+Based --> Logprob: -12.180729
+ 5.128337630152188e-06 
+
+It --> Logprob: -12.475807
+ 3.817911548123225e-06 
+
+NO --> Logprob: -12.736158
+ 2.9427736587863875e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [65, 115], 'logprob': -0.49788463, 'token': 'As', 'top_logprobs': [{'bytes': [65, 115], 'logprob': -0.49788463, 'token': 'As'}, {'bytes': [89, 69, 83], 'logprob': -1.8218135, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -2.5759335, 'token': 'NO'}, {'bytes': [73], 'logprob': -2.5837765, 'token': 'I'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -3.4927864, 'token': 'Sorry'}]}]}, 'message': {'content': 'As', 'role': 'assistant'}}], 'created': 1716331517, 'id': 'chatcmpl-9RSWLjGqPfAbKiCj7AxgjXaHaYWAR', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 186, 'total_tokens': 187}}
+Top 5 Tokens and their Log Probabilities:
+As --> Logprob: -0.49788463
+ 0.6078150544804 
+
+YES --> Logprob: -1.8218135
+ 0.16173218350728286 
+
+NO --> Logprob: -2.5759335
+ 0.0760827663757732 
+
+I --> Logprob: -2.5837765
+ 0.07548838315970721 
+
+Sorry --> Logprob: -3.4927864
+ 0.030416002835868247 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00011248347, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00011248347, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -9.285883, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -11.583286, 'token': 'Based'}, {'bytes': [78, 79], 'logprob': -11.922979, 'token': 'NO'}, {'bytes': [87, 105, 116, 104, 111, 117, 116], 'logprob': -13.332554, 'token': 'Without'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331517, 'id': 'chatcmpl-9RSWLmCxZczFYSY1m8ydxpEngea7k', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 201, 'total_tokens': 202}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00011248347
+ 0.9998875228560283 
+
+Yes --> Logprob: -9.285883
+ 9.272402032740507e-05 
+
+Based --> Logprob: -11.583286
+ 9.320577198638903e-06 
+
+NO --> Logprob: -11.922979
+ 6.636147225514142e-06 
+
+Without --> Logprob: -13.332554
+ 1.6208594900467272e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00022344373, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00022344373, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.411253, 'token': 'Yes'}, {'bytes': [32, 89, 69, 83], 'logprob': -14.2898655, 'token': ' YES'}, {'bytes': [73], 'logprob': -16.115767, 'token': 'I'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -16.432026, 'token': 'Based'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331517, 'id': 'chatcmpl-9RSWL20yvDK3nm6FMduF8MTxr4uQY', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 243, 'total_tokens': 244}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00022344373
+ 0.999776581231691 
+
+Yes --> Logprob: -8.411253
+ 0.00022235107640063826 
+
+ YES --> Logprob: -14.2898655
+ 6.222863377844973e-07 
+
+I --> Logprob: -16.115767
+ 1.0023313643717497e-07 
+
+Based --> Logprob: -16.432026
+ 7.305699112818152e-08 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0012347569, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0012347569, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -6.7788777, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -9.942727, 'token': 'Yes'}, {'bytes': [65, 115], 'logprob': -11.453803, 'token': 'As'}, {'bytes': [65, 110, 115, 119, 101, 114], 'logprob': -11.668626, 'token': 'Answer'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331518, 'id': 'chatcmpl-9RSWMyTxqKaJxWIIWIquqtLDPYbkI', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 175, 'total_tokens': 176}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0012347569
+ 0.9987660050986411 
+
+NO --> Logprob: -6.7788777
+ 0.0011375508555075981 
+
+Yes --> Logprob: -9.942727
+ 4.807602239735076e-05 
+
+As --> Logprob: -11.453803
+ 1.0609051565033372e-05 
+
+Answer --> Logprob: -11.668626
+ 8.558154387452828e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.003917515, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.003917515, 'token': 'YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -5.778908, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -8.046461, 'token': 'As'}, {'bytes': [78, 79], 'logprob': -8.902113, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -9.016716, 'token': 'Yes'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331518, 'id': 'chatcmpl-9RSWMdVnRgKb7jR10VpVXMjVPElc8', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 245, 'total_tokens': 246}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.003917515
+ 0.9960901484513929 
+
+Based --> Logprob: -5.778908
+ 0.0030920901277240505 
+
+As --> Logprob: -8.046461
+ 0.0003202332248436431 
+
+NO --> Logprob: -8.902113
+ 0.0001361010409385435 
+
+Yes --> Logprob: -9.016716
+ 0.00012136403200103329 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.1991186, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.1991186, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -1.7736082, 'token': 'YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -5.6693754, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -5.928563, 'token': 'As'}, {'bytes': [73, 116], 'logprob': -6.417056, 'token': 'It'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331518, 'id': 'chatcmpl-9RSWMEK0S5HRcgT5iVcA4Awcn5Swu', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 199, 'total_tokens': 200}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.1991186
+ 0.8194527004792265 
+
+YES --> Logprob: -1.7736082
+ 0.16971950079447493 
+
+Based --> Logprob: -5.6693754
+ 0.0034500194854441236 
+
+As --> Logprob: -5.928563
+ 0.0026623049735509377 
+
+It --> Logprob: -6.417056
+ 0.0016334580635672857 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0001940041, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0001940041, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.604362, 'token': 'Yes'}, {'bytes': [78, 79], 'logprob': -11.633952, 'token': 'NO'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -14.514428, 'token': 'Based'}, {'bytes': [32, 89, 69, 83], 'logprob': -15.091712, 'token': ' YES'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331518, 'id': 'chatcmpl-9RSWMzFyZbmIZs1yLM7t7rGgVMbyi', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 247, 'total_tokens': 248}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0001940041
+ 0.9998060147175785 
+
+Yes --> Logprob: -8.604362
+ 0.00018330447314622122 
+
+NO --> Logprob: -11.633952
+ 8.860104489673075e-06 
+
+Based --> Logprob: -14.514428
+ 4.971231772540413e-07 
+
+ YES --> Logprob: -15.091712
+ 2.7909544970348735e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.21070793, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.21070793, 'token': 'NO'}, {'bytes': [73], 'logprob': -2.4728463, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -2.4931252, 'token': 'As'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -4.074846, 'token': 'Sorry'}, {'bytes': [73, 116], 'logprob': -5.831529, 'token': 'It'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331519, 'id': 'chatcmpl-9RSWN8e1EAhVM7eXvnZsoKjE9FYnQ', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 197, 'total_tokens': 198}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.21070793
+ 0.810010612135195 
+
+I --> Logprob: -2.4728463
+ 0.08434444742143513 
+
+As --> Logprob: -2.4931252
+ 0.08265126081181996 
+
+Sorry --> Logprob: -4.074846
+ 0.016994831679533348 
+
+It --> Logprob: -5.831529
+ 0.002933588093149483 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00014489953, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00014489953, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.843803, 'token': 'Yes'}, {'bytes': [32, 89, 69, 83], 'logprob': -15.387354, 'token': ' YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -15.677593, 'token': 'Based'}, {'bytes': [73], 'logprob': -16.741177, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331519, 'id': 'chatcmpl-9RSWNEccgydHRm9gO1V7wE1cQu6wi', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 196, 'total_tokens': 197}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00014489953
+ 0.9998551109674298 
+
+Yes --> Logprob: -8.843803
+ 0.0001442730317225855 
+
+ YES --> Logprob: -15.387354
+ 2.0766201640315497e-07 
+
+Based --> Logprob: -15.677593
+ 1.5534878844675196e-07 
+
+I --> Logprob: -16.741177
+ 5.3628939421010137e-08 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00070528337, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00070528337, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -7.6980796, 'token': 'NO'}, {'bytes': [77, 97, 121, 98, 101], 'logprob': -8.688625, 'token': 'Maybe'}, {'bytes': [89, 101, 115], 'logprob': -10.252888, 'token': 'Yes'}, {'bytes': [73, 116], 'logprob': -10.314386, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331519, 'id': 'chatcmpl-9RSWNmaaeEcwWkU7VKlBRFPje9R7I', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 196, 'total_tokens': 197}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00070528337
+ 0.9992949652838554 
+
+NO --> Logprob: -7.6980796
+ 0.00045369762774245126 
+
+Maybe --> Logprob: -8.688625
+ 0.0001684915428891987 
+
+Yes --> Logprob: -10.252888
+ 3.525553569650661e-05 
+
+It --> Logprob: -10.314386
+ 3.315271315119156e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0024289289, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0024289289, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -6.3192186, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -7.722352, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -9.577865, 'token': 'As'}, {'bytes': [73], 'logprob': -9.8371725, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331520, 'id': 'chatcmpl-9RSWOTePzGgm89r7e4JMU4mJnzBG0', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 166, 'total_tokens': 167}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0024289289
+ 0.9975740185609266 
+
+Yes --> Logprob: -6.3192186
+ 0.0018013505317396338 
+
+Based --> Logprob: -7.722352
+ 0.00044281787049767066 
+
+As --> Logprob: -9.577865
+ 6.924462730153402e-05 
+
+I --> Logprob: -9.8371725
+ 5.342816588615211e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0023770807, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0023770807, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -6.06321, 'token': 'Yes'}, {'bytes': [65, 115], 'logprob': -10.432431, 'token': 'As'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -11.1059065, 'token': 'Based'}, {'bytes': [73], 'logprob': -13.973285, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331520, 'id': 'chatcmpl-9RSWOocTQdYXjFbwGxRXrai4gQeqm', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 217, 'total_tokens': 218}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0023770807
+ 0.9976257423190361 
+
+Yes --> Logprob: -6.06321
+ 0.002326919474771743 
+
+As --> Logprob: -10.432431
+ 2.9461359519920224e-05 
+
+Based --> Logprob: -11.1059065
+ 1.5023325970847574e-05 
+
+I --> Logprob: -13.973285
+ 8.540423963091305e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.0023592368, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.0023592368, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -6.052805, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -12.897896, 'token': 'It'}, {'bytes': [78, 111], 'logprob': -13.406712, 'token': 'No'}, {'bytes': [32, 78, 79], 'logprob': -14.615269, 'token': ' NO'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331520, 'id': 'chatcmpl-9RSWO4XZ5fu2AwnaD0gXyrO3ihP0f', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 94, 'total_tokens': 95}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.0023592368
+ 0.9976435440118449 
+
+YES --> Logprob: -6.052805
+ 0.0023512574707537843 
+
+It --> Logprob: -12.897896
+ 2.503311756836693e-06 
+
+No --> Logprob: -13.406712
+ 1.5050085179680736e-06 
+
+ NO --> Logprob: -14.615269
+ 4.4943751621736763e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.07894322, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.07894322, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -2.5836277, 'token': 'NO'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -8.429077, 'token': 'Based'}, {'bytes': [89, 101, 115], 'logprob': -9.076822, 'token': 'Yes'}, {'bytes': [73, 116], 'logprob': -10.665415, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331520, 'id': 'chatcmpl-9RSWO4pgbPqmJSE5a5x9HgFP6S8Xm', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 174, 'total_tokens': 175}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.07894322
+ 0.9240923929215628 
+
+NO --> Logprob: -2.5836277
+ 0.07549961666687358 
+
+Based --> Logprob: -8.429077
+ 0.00021842300180921186 
+
+Yes --> Logprob: -9.076822
+ 0.00011428422622130611 
+
+It --> Logprob: -10.665415
+ 2.3338294634316235e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.029959215, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.029959215, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -3.766457, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -5.1470933, 'token': 'It'}, {'bytes': [77, 97, 121, 98, 101], 'logprob': -8.147195, 'token': 'Maybe'}, {'bytes': [78, 111], 'logprob': -9.50332, 'token': 'No'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331521, 'id': 'chatcmpl-9RSWPX52JPaQTVQ5dNn9kB3YwX189', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 192, 'total_tokens': 193}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.029959215
+ 0.9704851139767323 
+
+YES --> Logprob: -3.766457
+ 0.023133881603010897 
+
+It --> Logprob: -5.1470933
+ 0.005816286379625774 
+
+Maybe --> Logprob: -8.147195
+ 0.0002895463992632751 
+
+No --> Logprob: -9.50332
+ 7.460373387973104e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00037001655, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00037001655, 'token': 'YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -8.196459, 'token': 'Based'}, {'bytes': [89, 101, 115], 'logprob': -10.134087, 'token': 'Yes'}, {'bytes': [65, 115], 'logprob': -10.495014, 'token': 'As'}, {'bytes': [87, 105, 116, 104, 111, 117, 116], 'logprob': -11.491726, 'token': 'Without'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331521, 'id': 'chatcmpl-9RSWPwn4UcJ33gNN9gZjj220Y5VJ0', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 234, 'total_tokens': 235}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00037001655
+ 0.9996300518976812 
+
+Based --> Logprob: -8.196459
+ 0.00027562784219437573 
+
+Yes --> Logprob: -10.134087
+ 3.9702873203729884e-05 
+
+As --> Logprob: -10.495014
+ 2.767408893654944e-05 
+
+Without --> Logprob: -11.491726
+ 1.0214257699803165e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.53896797, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.53896797, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -0.8756608, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -10.891952, 'token': 'Yes'}, {'bytes': [73, 116], 'logprob': -11.115922, 'token': 'It'}, {'bytes': [73], 'logprob': -11.517964, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331521, 'id': 'chatcmpl-9RSWPTNcR4rp6uHlosQtmtf8VBd7M', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 160, 'total_tokens': 161}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.53896797
+ 0.5833499764981538 
+
+NO --> Logprob: -0.8756608
+ 0.4165866482486455 
+
+Yes --> Logprob: -10.891952
+ 1.860738524254884e-05 
+
+It --> Logprob: -11.115922
+ 1.4873610837042527e-05 
+
+I --> Logprob: -11.517964
+ 9.94974137095936e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -6.718607e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -6.718607e-05, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -9.973391, 'token': 'Yes'}, {'bytes': [78, 79], 'logprob': -11.212772, 'token': 'NO'}, {'bytes': [73], 'logprob': -12.919689, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -13.254112, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331521, 'id': 'chatcmpl-9RSWPJC7DbhAy8tDTvhoYph1llEU8', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 179, 'total_tokens': 180}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -6.718607e-05
+ 0.9999328161869334 
+
+Yes --> Logprob: -9.973391
+ 4.662419246200706e-05 
+
+NO --> Logprob: -11.212772
+ 1.3500659795141324e-05 
+
+I --> Logprob: -12.919689
+ 2.449347243821434e-06 
+
+It --> Logprob: -13.254112
+ 1.753122630189201e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.015367228, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.015367228, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -4.2040687, 'token': 'NO'}, {'bytes': [65, 115], 'logprob': -9.377407, 'token': 'As'}, {'bytes': [73, 116], 'logprob': -9.412754, 'token': 'It'}, {'bytes': [73], 'logprob': -9.921198, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331521, 'id': 'chatcmpl-9RSWPTPfZ4CvAeuHfnpYRPOJFO4zz', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 223, 'total_tokens': 224}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.015367228
+ 0.9847502453319027 
+
+NO --> Logprob: -4.2040687
+ 0.014934688269688886 
+
+As --> Logprob: -9.377407
+ 8.461432326075527e-05 
+
+It --> Logprob: -9.412754
+ 8.167570244699115e-05 
+
+I --> Logprob: -9.921198
+ 4.912227303763e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.0015545015, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.0015545015, 'token': 'NO'}, {'bytes': [73], 'logprob': -7.576872, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -7.6617756, 'token': 'It'}, {'bytes': [65, 115], 'logprob': -8.458645, 'token': 'As'}, {'bytes': [89, 69, 83], 'logprob': -8.920792, 'token': 'YES'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331522, 'id': 'chatcmpl-9RSWQsjx8qaXMn7yJHHXFnXKuYoeX', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 215, 'total_tokens': 216}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.0015545015
+ 0.998446706111631 
+
+I --> Logprob: -7.576872
+ 0.0005121607588899145 
+
+It --> Logprob: -7.6617756
+ 0.00047047129987610184 
+
+As --> Logprob: -8.458645
+ 0.00021205921632663977 
+
+YES --> Logprob: -8.920792
+ 0.0001335824056193699 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.1767376, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.1767376, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -1.8259113, 'token': 'YES'}, {'bytes': [78, 111], 'logprob': -7.4073114, 'token': 'No'}, {'bytes': [89, 101, 115], 'logprob': -8.915383, 'token': 'Yes'}, {'bytes': [73, 116], 'logprob': -9.256825, 'token': 'It'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331524, 'id': 'chatcmpl-9RSWS5OawTwvsKlthPkWkx3ecqM0l', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 212, 'total_tokens': 213}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.1767376
+ 0.8379996467831197 
+
+YES --> Logprob: -1.8259113
+ 0.16107079341337313 
+
+No --> Logprob: -7.4073114
+ 0.0006067999456852717 
+
+Yes --> Logprob: -8.915383
+ 0.00013430691050841814 
+
+It --> Logprob: -9.256825
+ 9.545792342264424e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.0012880941, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.0012880941, 'token': 'NO'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -7.8387914, 'token': 'Based'}, {'bytes': [73], 'logprob': -8.121049, 'token': 'I'}, {'bytes': [89, 69, 83], 'logprob': -8.427049, 'token': 'YES'}, {'bytes': [65, 115], 'logprob': -8.746858, 'token': 'As'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331524, 'id': 'chatcmpl-9RSWSWydFzr9AxlP4LedcWZdLYEBy', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 230, 'total_tokens': 231}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.0012880941
+ 0.9987127351371219 
+
+Based --> Logprob: -7.8387914
+ 0.00039414511669241245 
+
+I --> Logprob: -8.121049
+ 0.00029721671651997025 
+
+YES --> Logprob: -8.427049
+ 0.00021886641312398274 
+
+As --> Logprob: -8.746858
+ 0.0001589599935972047 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.00011844365, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.00011844365, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -9.903873, 'token': 'YES'}, {'bytes': [78, 111], 'logprob': -10.240618, 'token': 'No'}, {'bytes': [85, 110, 102, 111, 114, 116, 117, 110, 97, 116, 101, 108, 121], 'logprob': -11.596075, 'token': 'Unfortunately'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -11.725939, 'token': 'Sorry'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331525, 'id': 'chatcmpl-9RSWTP6jMRF5n73IcsLLogkf1ZVrF', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 201, 'total_tokens': 202}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.00011844365
+ 0.9998815633641722 
+
+YES --> Logprob: -9.903873
+ 4.998073134057288e-05 
+
+No --> Logprob: -10.240618
+ 3.5690785918949236e-05 
+
+Unfortunately --> Logprob: -11.596075
+ 9.202135327732708e-06 
+
+Sorry --> Logprob: -11.725939
+ 8.081451988731364e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.004568373, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.004568373, 'token': 'NO'}, {'bytes': [65, 115], 'logprob': -6.152497, 'token': 'As'}, {'bytes': [73], 'logprob': -7.1704183, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -7.340615, 'token': 'It'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -8.057726, 'token': 'Based'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331525, 'id': 'chatcmpl-9RSWTkEN6yEJer7CylT5TdjCM9074', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 185, 'total_tokens': 186}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.004568373
+ 0.9954420461437169 
+
+As --> Logprob: -6.152497
+ 0.002128161111664432 
+
+I --> Logprob: -7.1704183
+ 0.0007690009908253252 
+
+It --> Logprob: -7.340615
+ 0.0006486514775921686 
+
+Based --> Logprob: -8.057726
+ 0.00031664604031708877 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0005233657, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0005233657, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -7.5644903, 'token': 'Yes'}, {'bytes': [78, 79], 'logprob': -12.890147, 'token': 'NO'}, {'bytes': [32, 89, 69, 83], 'logprob': -13.723622, 'token': ' YES'}, {'bytes': [65, 115], 'logprob': -14.898183, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331525, 'id': 'chatcmpl-9RSWT9R4PJXC5Jrd1wsqLsEFbe87B', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 205, 'total_tokens': 206}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0005233657
+ 0.9994767712319385 
+
+Yes --> Logprob: -7.5644903
+ 0.0005185416010766088 
+
+NO --> Logprob: -12.890147
+ 2.5227852723324525e-06 
+
+ YES --> Logprob: -13.723622
+ 1.0962426477609492e-06 
+
+As --> Logprob: -14.898183
+ 3.386891878940313e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0057266057, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0057266057, 'token': 'YES'}, {'bytes': [65, 115], 'logprob': -6.0647974, 'token': 'As'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -6.434705, 'token': 'Based'}, {'bytes': [89, 101, 115], 'logprob': -6.8997297, 'token': 'Yes'}, {'bytes': [73, 116], 'logprob': -8.088281, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331526, 'id': 'chatcmpl-9RSWU5Caz66urN5bmliwDrub12xMa', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 181, 'total_tokens': 182}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0057266057
+ 0.9942897600514505 
+
+As --> Logprob: -6.0647974
+ 0.002323228652977771 
+
+Based --> Logprob: -6.434705
+ 0.0016048820727848107 
+
+Yes --> Logprob: -6.8997297
+ 0.0010080578702687548 
+
+It --> Logprob: -8.088281
+ 0.00030711723816571245 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.005956053, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.005956053, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -5.6315, 'token': 'NO'}, {'bytes': [65, 115], 'logprob': -6.903232, 'token': 'As'}, {'bytes': [89, 101, 115], 'logprob': -7.9101596, 'token': 'Yes'}, {'bytes': [87, 105, 116, 104, 111, 117, 116], 'logprob': -8.200601, 'token': 'Without'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331526, 'id': 'chatcmpl-9RSWUcMeRnctsJpBuRF6U4sIGm7uF', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 180, 'total_tokens': 181}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.005956053
+ 0.9940616491213083 
+
+NO --> Logprob: -5.6315
+ 0.003583196499470376 
+
+As --> Logprob: -6.903232
+ 0.0010045335244503913 
+
+Yes --> Logprob: -7.9101596
+ 0.0003669960033586232 
+
+Without --> Logprob: -8.200601
+ 0.0002744885527692254 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.20674516, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.20674516, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -1.6801491, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -8.670595, 'token': 'Yes'}, {'bytes': [73], 'logprob': -9.613737, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -10.131472, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331526, 'id': 'chatcmpl-9RSWUMpcPFhXm4qD60SqqxNv3vaLs', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 182, 'total_tokens': 183}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.20674516
+ 0.8132268663175571 
+
+NO --> Logprob: -1.6801491
+ 0.18634618975110176 
+
+Yes --> Logprob: -8.670595
+ 0.00017155699743729832 
+
+I --> Logprob: -9.613737
+ 6.680470805767173e-05 
+
+It --> Logprob: -10.131472
+ 3.980683208415256e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [65, 115], 'logprob': -0.22306085, 'token': 'As', 'top_logprobs': [{'bytes': [65, 115], 'logprob': -0.22306085, 'token': 'As'}, {'bytes': [89, 69, 83], 'logprob': -2.3158343, 'token': 'YES'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -3.040974, 'token': 'Based'}, {'bytes': [73], 'logprob': -3.98893, 'token': 'I'}, {'bytes': [78, 79], 'logprob': -4.061657, 'token': 'NO'}]}]}, 'message': {'content': 'As', 'role': 'assistant'}}], 'created': 1716331526, 'id': 'chatcmpl-9RSWUZtQudEQIqEGoAtJy20clNmdf', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 255, 'total_tokens': 256}}
+Top 5 Tokens and their Log Probabilities:
+As --> Logprob: -0.22306085
+ 0.8000661637872462 
+
+YES --> Logprob: -2.3158343
+ 0.09868381773868297 
+
+Based --> Logprob: -3.040974
+ 0.047788320994371976 
+
+I --> Logprob: -3.98893
+ 0.01851951940786697 
+
+NO --> Logprob: -4.061657
+ 0.01722046115747441 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.010308903, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.010308903, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -4.59831, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -9.566015, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -9.60281, 'token': 'As'}, {'bytes': [73, 116], 'logprob': -11.6255245, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331527, 'id': 'chatcmpl-9RSWVjI6qPvsAGqVAoeKAaSkP81s3', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 166, 'total_tokens': 167}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.010308903
+ 0.9897440516163141 
+
+Yes --> Logprob: -4.59831
+ 0.01006883770965585 
+
+Based --> Logprob: -9.566015
+ 7.007005714784223e-05 
+
+As --> Logprob: -9.60281
+ 6.75386858874672e-05 
+
+It --> Logprob: -11.6255245
+ 8.935088540506703e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.004527793, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.004527793, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -5.5489707, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -8.5285, 'token': 'It'}, {'bytes': [73], 'logprob': -8.64884, 'token': 'I'}, {'bytes': [78, 111], 'logprob': -8.935726, 'token': 'No'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331527, 'id': 'chatcmpl-9RSWVyvwbze7YCHzJaoAllgdTHVjD', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 238, 'total_tokens': 239}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.004527793
+ 0.9954824420015759 
+
+YES --> Logprob: -5.5489707
+ 0.003891460663223358 
+
+It --> Logprob: -8.5285
+ 0.00019775137462761788 
+
+I --> Logprob: -8.64884
+ 0.00017533011317243718 
+
+No --> Logprob: -8.935726
+ 0.0001316023081622557 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.0037011395, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.0037011395, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -6.583152, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -6.65574, 'token': 'It'}, {'bytes': [73], 'logprob': -8.477605, 'token': 'I'}, {'bytes': [85, 110, 102, 111, 114, 116, 117, 110, 97, 116, 101, 108, 121], 'logprob': -8.4897375, 'token': 'Unfortunately'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331527, 'id': 'chatcmpl-9RSWVUUibnI5fKOMdzJGcaXUqsted', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 216, 'total_tokens': 217}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.0037011395
+ 0.9963057012746431 
+
+YES --> Logprob: -6.583152
+ 0.00138348168083433 
+
+It --> Logprob: -6.65574
+ 0.0012866156953128891 
+
+I --> Logprob: -8.477605
+ 0.0002080764495246037 
+
+Unfortunately --> Logprob: -8.4897375
+ 0.0002055672144275182 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -9.543734e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -9.543734e-05, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -9.288578, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -13.595879, 'token': 'Based'}, {'bytes': [73], 'logprob': -14.010223, 'token': 'I'}, {'bytes': [32, 89, 69, 83], 'logprob': -14.6122265, 'token': ' YES'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331527, 'id': 'chatcmpl-9RSWVHr4c9qjaGBFFUgavSphheAtW', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 234, 'total_tokens': 235}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -9.543734e-05
+ 0.999904567213998 
+
+Yes --> Logprob: -9.288578
+ 9.247446551877097e-05 
+
+Based --> Logprob: -13.595879
+ 1.2456177081068738e-06 
+
+I --> Logprob: -14.010223
+ 8.230713047384117e-07 
+
+ YES --> Logprob: -14.6122265
+ 4.508070121497161e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -9.472212e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -9.472212e-05, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -9.296529, 'token': 'Yes'}, {'bytes': [32, 89, 69, 83], 'logprob': -13.212989, 'token': ' YES'}, {'bytes': [73], 'logprob': -15.504598, 'token': 'I'}, {'bytes': [65, 98, 115, 111, 108, 117, 116, 101, 108, 121], 'logprob': -15.571029, 'token': 'Absolutely'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331527, 'id': 'chatcmpl-9RSWVN88Uc8Peh3brSZgfoKCxBXNa', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 207, 'total_tokens': 208}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -9.472212e-05
+ 0.9999052823659984 
+
+Yes --> Logprob: -9.296529
+ 9.17421163556869e-05 
+
+ YES --> Logprob: -13.212989
+ 1.8267191761830662e-06 
+
+I --> Logprob: -15.504598
+ 1.846879856079767e-07 
+
+Absolutely --> Logprob: -15.571029
+ 1.7281762314220552e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00023917861, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00023917861, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.3415365, 'token': 'Yes'}, {'bytes': [32, 89, 69, 83], 'logprob': -14.270177, 'token': ' YES'}, {'bytes': [78, 79], 'logprob': -17.097527, 'token': 'NO'}, {'bytes': [73], 'logprob': -17.177197, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331528, 'id': 'chatcmpl-9RSWWuqZFEuhL8tQ3Y1XDZtIG62k0', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 289, 'total_tokens': 290}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00023917861
+ 0.9997608499909234 
+
+Yes --> Logprob: -8.3415365
+ 0.0002384057509384661 
+
+ YES --> Logprob: -14.270177
+ 6.346596284194101e-07 
+
+NO --> Logprob: -17.097527
+ 3.7552458055996605e-08 
+
+I --> Logprob: -17.177197
+ 3.467672931122144e-08 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0004043362, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0004043362, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.419973, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -8.711496, 'token': 'Based'}, {'bytes': [78, 79], 'logprob': -11.463608, 'token': 'NO'}, {'bytes': [73], 'logprob': -12.807238, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331528, 'id': 'chatcmpl-9RSWWZzMRLDAeUddeSIDksQdig8vb', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 209, 'total_tokens': 210}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0004043362
+ 0.9995957455328651 
+
+Yes --> Logprob: -8.419973
+ 0.0002204206041061153 
+
+Based --> Logprob: -8.711496
+ 0.00016468170626862336 
+
+NO --> Logprob: -11.463608
+ 1.050553811840717e-05 
+
+I --> Logprob: -12.807238
+ 2.7408622425660064e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00062904065, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00062904065, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -7.379249, 'token': 'Yes'}, {'bytes': [78, 79], 'logprob': -12.709663, 'token': 'NO'}, {'bytes': [32, 89, 69, 83], 'logprob': -13.742842, 'token': ' YES'}, {'bytes': [121, 101, 115], 'logprob': -15.629395, 'token': 'yes'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331528, 'id': 'chatcmpl-9RSWWzNOqopVEoPx0oR3DX8kEWuLb', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 236, 'total_tokens': 237}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00062904065
+ 0.9993711571545918 
+
+Yes --> Logprob: -7.379249
+ 0.0006240693861646226 
+
+NO --> Logprob: -12.709663
+ 3.0217845212942195e-06 
+
+ YES --> Logprob: -13.742842
+ 1.075374053675685e-06 
+
+yes --> Logprob: -15.629395
+ 1.6301966487688624e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00076972484, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00076972484, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -7.1817884, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -11.843806, 'token': 'Based'}, {'bytes': [34, 89, 101, 115], 'logprob': -14.959725, 'token': '"Yes'}, {'bytes': [73], 'logprob': -14.964885, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331528, 'id': 'chatcmpl-9RSWW5okjoeeoEAzfadY5ZbmrO2Su', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 248, 'total_tokens': 249}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00076972484
+ 0.999230571322172 
+
+Yes --> Logprob: -7.1817884
+ 0.0007603068927056736 
+
+Based --> Logprob: -11.843806
+ 7.182909745249799e-06 
+
+"Yes --> Logprob: -14.959725
+ 3.184739993373767e-07 
+
+I --> Logprob: -14.964885
+ 3.1683490599842893e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.0022496996, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.0022496996, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -6.699506, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -7.3522234, 'token': 'It'}, {'bytes': [73], 'logprob': -8.086068, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -10.684577, 'token': 'As'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331529, 'id': 'chatcmpl-9RSWXc2Qupayr3oqZXsBRfo5wS7YW', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 193, 'total_tokens': 194}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.0022496996
+ 0.9977528290775347 
+
+YES --> Logprob: -6.699506
+ 0.0012315201233715448 
+
+It --> Logprob: -7.3522234
+ 0.0006411652076551286 
+
+I --> Logprob: -8.086068
+ 0.00030779764120205115 
+
+As --> Logprob: -10.684577
+ 2.289534369900491e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.023788095, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.023788095, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -3.9845557, 'token': 'NO'}, {'bytes': [73], 'logprob': -6.0625243, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -6.9585376, 'token': 'As'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -7.8292003, 'token': 'Sorry'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331529, 'id': 'chatcmpl-9RSWXC94w3qpXQ6aYwViVYvYUfDKW', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 177, 'total_tokens': 178}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.023788095
+ 0.9764926115022184 
+
+NO --> Logprob: -3.9845557
+ 0.018600706781119598 
+
+I --> Logprob: -6.0625243
+ 0.002328515590621374 
+
+As --> Logprob: -6.9585376
+ 0.0009504855487418774 
+
+Sorry --> Logprob: -7.8292003
+ 0.00039794358856475417 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.000106284875, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.000106284875, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -9.803203, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -10.287778, 'token': 'Based'}, {'bytes': [78, 79], 'logprob': -12.045449, 'token': 'NO'}, {'bytes': [73], 'logprob': -13.06387, 'token': 'I'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331529, 'id': 'chatcmpl-9RSWXhs8YP3Xok2JzX8V50zf3Hx19', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 191, 'total_tokens': 192}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.000106284875
+ 0.9998937207730372 
+
+Yes --> Logprob: -9.803203
+ 5.527427210052053e-05 
+
+Based --> Logprob: -10.287778
+ 3.404668115056049e-05 
+
+NO --> Logprob: -12.045449
+ 5.871214770287766e-06 
+
+I --> Logprob: -13.06387
+ 2.120475928287991e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0019607479, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0019607479, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -6.264366, 'token': 'NO'}, {'bytes': [89, 101, 115], 'logprob': -9.956394, 'token': 'Yes'}, {'bytes': [73], 'logprob': -12.2978115, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -13.55661, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331529, 'id': 'chatcmpl-9RSWXFVrnBoUuubKaITLqKsXFWIQh', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 178, 'total_tokens': 179}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0019607479
+ 0.9980411731104195 
+
+NO --> Logprob: -6.264366
+ 0.0019029194870446781 
+
+Yes --> Logprob: -9.956394
+ 4.742343699939782e-05 
+
+I --> Logprob: -12.2978115
+ 4.56171686416031e-06 
+
+As --> Logprob: -13.55661
+ 1.2955049707708086e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.00010092071, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.00010092071, 'token': 'NO'}, {'bytes': [78, 111], 'logprob': -9.267448, 'token': 'No'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -13.091892, 'token': 'Sorry'}, {'bytes': [32, 78, 79], 'logprob': -13.622704, 'token': ' NO'}, {'bytes': [73], 'logprob': -13.746431, 'token': 'I'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331530, 'id': 'chatcmpl-9RSWYP8FJVDIuLUJ8q89JFDcCasTc', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 271, 'total_tokens': 272}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.00010092071
+ 0.9998990843823236 
+
+No --> Logprob: -9.267448
+ 9.444924100443221e-05 
+
+Sorry --> Logprob: -13.091892
+ 2.0618807628735552e-06 
+
+ NO --> Logprob: -13.622704
+ 1.212648193693909e-06 
+
+I --> Logprob: -13.746431
+ 1.0715214538228976e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00024691585, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00024691585, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.313874, 'token': 'Yes'}, {'bytes': [32, 89, 69, 83], 'logprob': -13.800908, 'token': ' YES'}, {'bytes': [34, 89, 101, 115], 'logprob': -15.4153185, 'token': '"Yes'}, {'bytes': [78, 79], 'logprob': -15.784297, 'token': 'NO'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331530, 'id': 'chatcmpl-9RSWYRQQA6uuMclq9nEhcV6wyazbP', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 151, 'total_tokens': 152}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00024691585
+ 0.9997531146312096 
+
+Yes --> Logprob: -8.313874
+ 0.00024509271265548 
+
+ YES --> Logprob: -13.800908
+ 1.014709696175923e-06 
+
+"Yes --> Logprob: -15.4153185
+ 2.0193529755273784e-07 
+
+NO --> Logprob: -15.784297
+ 1.3962619792579138e-07 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.007985136, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.007985136, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -5.030328, 'token': 'NO'}, {'bytes': [73, 116], 'logprob': -7.048629, 'token': 'It'}, {'bytes': [73], 'logprob': -8.035951, 'token': 'I'}, {'bytes': [89, 101, 115], 'logprob': -9.250613, 'token': 'Yes'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331530, 'id': 'chatcmpl-9RSWYrq6KGHUa7hXG3hH9hWoKCgcV', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 221, 'total_tokens': 222}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.007985136
+ 0.9920466605090323 
+
+NO --> Logprob: -5.030328
+ 0.006536666192379171 
+
+It --> Logprob: -7.048629
+ 0.0008685989905688683 
+
+I --> Logprob: -8.035951
+ 0.00032361662465861134 
+
+Yes --> Logprob: -9.250613
+ 9.605275367288153e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.00032950565, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.00032950565, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -8.467426, 'token': 'YES'}, {'bytes': [83, 111, 114, 114, 121], 'logprob': -10.060057, 'token': 'Sorry'}, {'bytes': [73], 'logprob': -10.472998, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -10.729717, 'token': 'It'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331530, 'id': 'chatcmpl-9RSWY7muxXgp7Ur1G42ljb7IhcKVp', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 211, 'total_tokens': 212}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.00032950565
+ 0.9996705486310246 
+
+YES --> Logprob: -8.467426
+ 0.00021020527598561534 
+
+Sorry --> Logprob: -10.060057
+ 4.275360665249043e-05 
+
+I --> Logprob: -10.472998
+ 2.829011804453735e-05 
+
+It --> Logprob: -10.729717
+ 2.188482683171427e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.047859095, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.047859095, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -3.121025, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -6.6012363, 'token': 'It'}, {'bytes': [77, 97, 121, 98, 101], 'logprob': -7.3426304, 'token': 'Maybe'}, {'bytes': [73], 'logprob': -7.7817, 'token': 'I'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331530, 'id': 'chatcmpl-9RSWYn9LwddAERDEX28OjKCsTlUVf', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 240, 'total_tokens': 241}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.047859095
+ 0.9532680978560808 
+
+YES --> Logprob: -3.121025
+ 0.04411193051045184 
+
+It --> Logprob: -6.6012363
+ 0.0013586872537336688 
+
+Maybe --> Logprob: -7.3426304
+ 0.0006473455018780113 
+
+I --> Logprob: -7.7817
+ 0.0004173021575996298 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.14048773, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.14048773, 'token': 'YES'}, {'bytes': [78, 79], 'logprob': -2.1646423, 'token': 'NO'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -5.0532227, 'token': 'Based'}, {'bytes': [65, 115], 'logprob': -5.902361, 'token': 'As'}, {'bytes': [85, 110, 102, 111, 114, 116, 117, 110, 97, 116, 101, 108, 121], 'logprob': -5.94615, 'token': 'Unfortunately'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331531, 'id': 'chatcmpl-9RSWZzeyNhVdlaUweG1TAHPbCRIjy', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 199, 'total_tokens': 200}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.14048773
+ 0.8689343266915549 
+
+NO --> Logprob: -2.1646423
+ 0.1147909879908459 
+
+Based --> Logprob: -5.0532227
+ 0.006388711334646756 
+
+As --> Logprob: -5.902361
+ 0.0027329846188182336 
+
+Unfortunately --> Logprob: -5.94615
+ 0.002615892341748207 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [78, 79], 'logprob': -0.20457143, 'token': 'NO', 'top_logprobs': [{'bytes': [78, 79], 'logprob': -0.20457143, 'token': 'NO'}, {'bytes': [89, 69, 83], 'logprob': -2.0782325, 'token': 'YES'}, {'bytes': [73, 116], 'logprob': -3.48256, 'token': 'It'}, {'bytes': [73], 'logprob': -4.0069757, 'token': 'I'}, {'bytes': [65, 115], 'logprob': -4.7768826, 'token': 'As'}]}]}, 'message': {'content': 'NO', 'role': 'assistant'}}], 'created': 1716331531, 'id': 'chatcmpl-9RSWZVodH2gayd1XZ23dtdpdGVZ4W', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'low'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 223, 'total_tokens': 224}}
+Top 5 Tokens and their Log Probabilities:
+NO --> Logprob: -0.20457143
+ 0.8149965246365485 
+
+YES --> Logprob: -2.0782325
+ 0.125151221608172 
+
+It --> Logprob: -3.48256
+ 0.030728644924143046 
+
+I --> Logprob: -4.0069757
+ 0.018188319075235118 
+
+As --> Logprob: -4.7768826
+ 0.008422213494025442 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.0013010689, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.0013010689, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -7.104613, 'token': 'Yes'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -7.703753, 'token': 'Based'}, {'bytes': [87, 105, 116, 104, 111, 117, 116], 'logprob': -11.770765, 'token': 'Without'}, {'bytes': [65, 115], 'logprob': -12.2121105, 'token': 'As'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331531, 'id': 'chatcmpl-9RSWZwrIDn2Xh8cJi7NOowjBYlbIU', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 185, 'total_tokens': 186}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.0013010689
+ 0.99869977712319 
+
+Yes --> Logprob: -7.104613
+ 0.0008213074797923084 
+
+Based --> Logprob: -7.703753
+ 0.0004511309075211506 
+
+Without --> Logprob: -11.770765
+ 7.72719216525158e-06 
+
+As --> Logprob: -12.2121105
+ 4.96990168371547e-06 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -0.00044163596, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -0.00044163596, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -8.316314, 'token': 'Yes'}, {'bytes': [65, 115], 'logprob': -9.482919, 'token': 'As'}, {'bytes': [87, 105, 116, 104, 111, 117, 116], 'logprob': -10.414117, 'token': 'Without'}, {'bytes': [66, 97, 115, 101, 100], 'logprob': -10.538259, 'token': 'Based'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331531, 'id': 'chatcmpl-9RSWZQ0Pi9xwOGTKfzDcLINGTfG4b', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 196, 'total_tokens': 197}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -0.00044163596
+ 0.9995584615468058 
+
+Yes --> Logprob: -8.316314
+ 0.000244495415435548 
+
+As --> Logprob: -9.482919
+ 7.614135583780714e-05 
+
+Without --> Logprob: -10.414117
+ 3.000588586637846e-05 
+
+Based --> Logprob: -10.538259
+ 2.6502831012969333e-05 
+
+{'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': {'content': [{'bytes': [89, 69, 83], 'logprob': -6.289474e-05, 'token': 'YES', 'top_logprobs': [{'bytes': [89, 69, 83], 'logprob': -6.289474e-05, 'token': 'YES'}, {'bytes': [89, 101, 115], 'logprob': -9.89739, 'token': 'Yes'}, {'bytes': [78, 79], 'logprob': -11.504572, 'token': 'NO'}, {'bytes': [73], 'logprob': -14.059111, 'token': 'I'}, {'bytes': [73, 116], 'logprob': -14.476055, 'token': 'It'}]}]}, 'message': {'content': 'YES', 'role': 'assistant'}}], 'created': 1716331532, 'id': 'chatcmpl-9RSWaSUvl47VTaraHSFIzdsFciupG', 'model': 'gpt-35-turbo', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': None, 'usage': {'completion_tokens': 1, 'prompt_tokens': 203, 'total_tokens': 204}}
+Top 5 Tokens and their Log Probabilities:
+YES --> Logprob: -6.289474e-05
+ 0.9999371072378327 
+
+Yes --> Logprob: -9.89739
+ 5.030580902259562e-05 
+
+NO --> Logprob: -11.504572
+ 1.0083884525132827e-05 
+
+I --> Logprob: -14.059111
+ 7.838007455359286e-07 
+
+It --> Logprob: -14.476055
+ 5.165700154868754e-07 
+

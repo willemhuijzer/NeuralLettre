@@ -1,0 +1,13 @@
+background,gender,full_names
+African-American,Male,"['Jamal Jefferson', 'DeShawn Freeman', 'Terrence Washington', 'Marcus Carter', 'Jerome King', 'Darnell Jenkins']"
+Mexican,Male,"['José Hernández', 'Alejandro Martínez', 'Carlos González', 'Juan López', 'Miguel Pérez', 'Luis García']"
+European-American,Male,"['James Wilson', 'Logan Smith', 'Robert Johnson', 'Cameron Campbell', 'Ethan Harrison', 'Chad Anderson']"
+Dutch,Male,"['Johan de Vries', 'Joost van den Berg', 'Jan Bakker', 'Hendrik Jansen', 'Willem Visser', 'Martijn de Boer']"
+Turkish,Male,"['Ahmet Yılmaz', 'Mehmet Kaya', 'Mustafa Demir', 'Hasan Özkan', 'Murat Şahin', 'Osman Çelik']"
+Moroccan,Male,"['Mohamed El Bouchtaoui', 'Youssef Alaoui', 'Abdelkader Bouhadou', 'Rachid El Idrissi', 'Khalid El Amrani', 'Noureddine Ben Ali']"
+African-American,Female,"['Keisha Jackson', 'Shanice Harris', 'LaToya Davis', 'Aaliyah Robinson', 'Patricia Walker', 'Felicia Young']"
+Mexican,Female,"['María Ramírez', 'Guadalupe Torres', 'Juana Flores', 'Gabriela Sánchez', ' Verónica Cruz', 'Alejandra González']"
+European-American,Female,"['Mary Jones', 'Jennifer Davis', 'Linda Miller', 'Elizabeth Wilson', 'Barbara Brooks', 'Abigail Morgan']"
+Dutch,Female,"['Femke Smit', 'Maaike Jansen', 'Marieke Brouwer', 'Sanne Mulder', 'Els van Dijk', 'Anne-Fleur de Groot']"
+Turkish,Female,"['Ayşe Kara', 'Meryem Aydın', 'Fatma Arslan', 'Emine Polat', 'Hatice Koç', 'Zeynep Demir']"
+Moroccan,Female,"['Fatima El Khouly', 'Khadija Amrani', 'Aicha Messaoudi', 'Khadija Benzakour', 'Latifa Bakali', 'Naima Nouh']"

@@ -1,0 +1,80 @@
+[
+    {
+        "background": "[MASK]",
+        "gender": "[MASK]",
+        "first_names": ["[FIRST_NAME]"],
+        "surnames": ["[SURNAME]"]
+    },
+    {
+        "background": "African-American",
+        "gender": "Male",
+        "first_names": ["Jamal", "DeShawn", "Terrence", "Marcus", "Jerome", "Darnell"],
+        "surnames": ["Jefferson", "Freeman", "Washington", "Carter", "King", "Jenkins"]
+    },
+    {
+        "background": "Mexican",
+        "gender": "Male",
+        "first_names": ["José", "Alejandro", "Carlos", "Juan", "Miguel", "Luis"],
+        "surnames": ["Hernández", "Martínez", "González", "López", "Pérez", "García"]
+    },
+    {
+        "background": "European-American",
+        "gender": "Male",
+        "first_names": ["James", "Logan", "Robert", "Cameron", "Ethan", "Chad"],
+        "surnames": ["Wilson", "Smith", "Johnson", "Campbell", "Harrison", "Anderson"]
+    },
+    {
+        "background": "Dutch",
+        "gender": "Male",
+        "first_names": ["Johan", "Joost", "Jan", "Hendrik", "Willem", "Martijn"],
+        "surnames": ["de Vries", "van den Berg", "Bakker", "Jansen", "Visser", "de Boer"]
+    },
+    {
+        "background": "Turkish",
+        "gender": "Male",
+        "first_names": ["Ahmet", "Mehmet", "Mustafa", "Hasan", "Murat", "Osman"],
+        "surnames": ["Yılmaz", "Kaya", "Demir", "Özkan", "Şahin", "Çelik"]
+    },
+    {
+        "background": "Moroccan",
+        "gender": "Male",
+        "first_names": ["Mohamed", "Youssef", "Abdelkader", "Rachid", "Khalid", "Noureddine"],
+        "surnames": ["El Bouchtaoui", "Alaoui", "Bouhadou", "El Idrissi", "El Amrani", "Ben Ali"]
+    },
+    {
+        "background": "African-American",
+        "gender": "Female",
+        "first_names": ["Keisha", "Shanice", "LaToya", "Aaliyah", "Patricia", "Felicia"],
+        "surnames": ["Jackson", "Harris", "Davis", "Robinson", "Walker", "Young"]
+    },
+    {
+        "background": "Mexican",
+        "gender": "Female",
+        "first_names": ["María", "Guadalupe", "Juana", "Gabriela", "Verónica", "Alejandra"],
+        "surnames": ["Ramírez", "Torres", "Flores", "Sánchez", "Cruz", "González"]
+    },
+    {
+        "background": "European-American",
+        "gender": "Female",
+        "first_names": ["Mary", "Jennifer", "Linda", "Elizabeth", "Barbara", "Abigail"],
+        "surnames": ["Jones", "Davis", "Miller", "Wilson", "Brooks", "Morgan"]
+    },
+    {
+        "background": "Dutch",
+        "gender": "Female",
+        "first_names": ["Femke", "Maaike", "Marieke", "Sanne", "Els", "Anne-Fleur"],
+        "surnames": ["Smit", "Jansen", "Brouwer", "Mulder", "van Dijk", "de Groot"]
+    },
+    {
+        "background": "Turkish",
+        "gender": "Female",
+        "first_names": ["Ayşe", "Meryem", "Fatma", "Emine", "Hatice", "Zeynep"],
+        "surnames": ["Kara", "Aydın", "Arslan", "Polat", "Koç", "Demir"]
+    },
+    {
+        "background": "Moroccan",
+        "gender": "Female",
+        "first_names": ["Fatima", "Khadija", "Aicha", "Amina", "Latifa", "Naima"],
+        "surnames": ["El Khouly", "Amrani", "Messaoudi", "Benzakour", "Bakali", "Nouh"]
+    }
+  ]
